@@ -106,14 +106,14 @@ Advanced MongoDB querying is used instead of basic CRUD operations.
 ## 📂 Project Structure
 
 src/
-├── controllers/
-├── db/
-├── middlewares/
-├── models/
-├── routes/
-├── utils/
-├── app.js
-└── index.js
+  ├─ controllers/
+  ├─ db/
+  ├─ middlewares/
+  ├─ models/
+  ├─ routes/
+  ├─ utils/
+  ├─ app.js
+  └─ index.js
 
 
 ---
